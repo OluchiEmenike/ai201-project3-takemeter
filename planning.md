@@ -10,25 +10,25 @@ In this project I will build a classifier for posts in a community forum, with t
 ## Labels
 I will use 3 labels.
 
-1. Reviews
+1. reviews
    This label applies to posts where the author telling readers about their experience making and tasting the cookie and/or presenting their results.
    Example posts:
    - “I baked a couple after 3 hrs this is the result. very good. will bake the rest tomorrow or the next day. hopefully they live up to the expectation a no d the wait.”
    - “This recipe makes a lot more than 9 cookies”
 
-2. Changes
+2. changes
    This label is for posts where authors are commenting  substitutions or changes they made to the recipe which can be good or bad.
    Example posts:
    - “Baked a few pieces after chilling for an hour and it turned out crunchy on the outside, chewy in the inside! Replaced toffee with Walnuts, which suited my need to contrast the sweetness of the cookie dough. Can’t wait to bake the rest after 3days!😍”
    - “so, uh if you're 9 months pregnant and wake in the dead of night NEEDING to make these cookies and (due to pregnancy brain) accidentally leave out 1 of the required cups of flour, these still turn out amazingly well. they spread like crazy and are the thinnest cookies I've ever seen but they are amazingly soft and chewy not crunchy at all!”
 
-3. Tips
+3. tips
    This label is for people providing tips for bakers who might not know the best way to get around struggles. These are people with assumed knowledge over baking.
    Example posts:
    - “espresso powder makes them better but if you dont have any and dont feel like going to the store dont worry! theyll still be amazing (best cookie ive ever had btw)”
    - “If you are impatient but still want the effect of the resting you can do the freezer instead of the fridge. Just do it for a fourth of the time and make sure it’s sealed. Also I the dough does freeze you can thaw it in the fridge before baking.”
 
-3. Confusion
+4. confusion
    This label is for people confused about the video or written recipe and who are simply expressing confusion or asking questions.
    -"How come the video calls for 4 eggs and the recipe calls for 2!How many eggs should I use?2, 3 or 4?"
    -"Like if he doubled the recipe cause I’m so confuse don’t like if he didn’t"

@@ -181,7 +181,7 @@ The third comment was correctly classified as `tips` because it directly advises
 
 #### AI-assisted error-pattern review
 
-**AI tool and request:** I shared the fine-tuned model's incorrect predictions with Copilot in VS Code and asked it to help identify recurring patterns and possible reasons for the errors.
+**AI tool and request:** I shared the fine-tuned model's incorrect predictions with Copilot in VS Code and asked it to help identify recurring patterns and possible reasons for errors.
 
 Patterns it suggested: 
 Copilot pointed to possible reliance on surface wording rather than the comment's overall purpose. For example, imperative wording in “Don’t make these...” may have triggered `tips` despite the comment being sarcastic praise. Another example of this is when “I highly recommend...” may have been treated as a general review even though the rest of the comment gives practical advice. It also noted repeated confusion around comments labeled `changes` but predicted as `reviews` or `tips`, and flagged the very small number of `confusion` examples as a limitation.
